@@ -18,8 +18,7 @@ O projeto consiste em um clone estático da interface do Spotify, focando em:
 
 ## 📸 Prévia
 
-> Adicione aqui uma imagem ou gif demonstrando o projeto (ex: `screenshot.png`)
-
+<img src="https://github.com/Erisson10/SPOTIFY-CLONE/blob/main/img/Clone-spotify.png?raw=true"/>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
